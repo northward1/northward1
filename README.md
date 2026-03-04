@@ -5,7 +5,7 @@
 [Zenn](https://zenn.dev/northward)でたまに記事を書いています。以下の2つの記事はおすすめです。
 
 * [Rustの型システムの好きな使い方](https://zenn.dev/northward/articles/my-favorite-type-system-usage-in-rust)
-  * 関連型、幽霊型、Builderパターンなどについて、実装を示し、それの問題点を改善することを繰り返して、自然と使い所を理解するというアプローチでRustの型システムの魅力を書いています。
+  * 関連型、幽霊型、Builderパターンなどについて、具体的な題材に対して、実装を示し、その問題点を改善することを繰り返して、自然とそれらの使い所を理解するというアプローチでRustの型システムの魅力を書いています。
 * [Legends of Code and Magicで5位になったので取り組みをまとめる](https://zenn.dev/northward/articles/locm-summary)
   * [CodinGame](https://www.codingame.com)で常設されているカードゲームのプログラミングコンテスト[Legends of Code and Magic](https://legendsofcodeandmagic.com/)で強いプログラムを作った取り組みをまとめています。
 
